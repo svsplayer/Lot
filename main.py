@@ -33,31 +33,40 @@ SCHEDULE = {
     "11:10": "You Won 2 400 000 EUR at Loto 6/49",
     "13:10": "You Won 2 400 000 EUR at Loto 6/49",
     "15:10": "You Won 2 400 000 EUR at Loto 6/49",
+    "21:40": "You Won 2 400 000 EUR at Loto 6/49",
+    "22:30": "You Won 2 400 000 EUR at Loto 6/49",
 
     "09:25": "You Won 2700 RON at Canada Atlantic Bucko lottery",
     "10:25": "You Won 2700 RON at Canada Atlantic Bucko lottery",
     "11:25": "You Won 2700 RON at Canada Atlantic Bucko lottery",
     "13:25": "You Won 2700 RON at Canada Atlantic Bucko lottery",
     "15:25": "You Won 2700 RON at Canada Atlantic Bucko lottery",
+    "21:50": "You Won 2700 RON at Canada Atlantic Bucko lottery",
+    "22:40": "You Won 2700 RON at Canada Atlantic Bucko lottery",
 
     "09:35": "You Won 1800 RON at SUA Florida Fantasy lottery",
     "10:35": "You Won 1800 RON at SUA Florida Fantasy lottery",
     "11:35": "You Won 1800 RON at SUA Florida Fantasy lottery",
     "13:35": "You Won 1800 RON at SUA Florida Fantasy lottery",
     "15:35": "You Won 1800 RON at SUA Florida Fantasy lottery",
+    "22:00": "You Won 1800 RON at SUA Florida Fantasy lottery",
+    "22:50": "You Won 1800 RON at SUA Florida Fantasy lottery",
 
     "09:45": "You Won 1150 RON at Italia Win for Life lottery",
     "10:45": "You Won 1150 RON at Italia Win for Life lottery",
     "11:45": "You Won 1150 RON at Italia Win for Life lottery",
     "13:45": "You Won 1150 RON at Italia Win for Life lottery",
     "15:45": "You Won 1150 RON at Italia Win for Life lottery",
+    "22:10": "You Won 1150 RON at Italia Win for Life lottery",
+    "23:00": "You Won 1150 RON at Italia Win for Life lottery",
 
     "09:52": "You Won 1140 RON at SUA Wisconsin Badger lottery",
     "10:52": "You Won 1140 RON at SUA Wisconsin Badger lottery",
     "11:52": "You Won 1140 RON at SUA Wisconsin Badger lottery",
     "13:52": "You Won 1140 RON at SUA Wisconsin Badger lottery",
     "15:52": "You Won 1140 RON at SUA Wisconsin Badger lottery",
-    "21:30": "You Won 1140 RON at SUA Wisconsin Badger lottery",
+    "22:20": "You Won 1140 RON at SUA Wisconsin Badger lottery",
+    "23:10": "You Won 1140 RON at SUA Wisconsin Badger lottery",
 }
 
 already_sent = set()
