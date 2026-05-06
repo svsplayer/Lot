@@ -57,7 +57,7 @@ SCHEDULE = {
     "11:52": "You Won 1140 RON at SUA Wisconsin Badger lottery",
     "13:52": "You Won 1140 RON at SUA Wisconsin Badger lottery",
     "15:52": "You Won 1140 RON at SUA Wisconsin Badger lottery",
-    "23:15": "You Won 1140 RON at SUA Wisconsin Badger lottery",
+    "21:30": "You Won 1140 RON at SUA Wisconsin Badger lottery",
 }
 
 already_sent = set()
